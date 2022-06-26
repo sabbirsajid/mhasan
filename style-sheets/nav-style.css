@@ -1,0 +1,33 @@
+.header{
+    height: 55px;
+}
+nav ul{
+display: flex;
+background-image: linear-gradient(180deg, rgb(146, 2, 146), rgb(182, 88, 182)) ;
+
+
+}
+nav li{
+    list-style: none;
+    font-weight: bold;
+    
+    
+    }
+.nav-1{
+    padding: 15px 10px;
+    margin-left: 145px;
+}
+.nav-2{
+    padding: 5px 2px;
+    
+}
+
+nav li:hover{
+    background-color: rgb(110, 1, 110);
+    
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+}

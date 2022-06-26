@@ -1,0 +1,101 @@
+.first-class{
+    background-image: url(images/b-1.webp);
+    display: flex;
+}
+.div-two{
+    width: 25%;
+    padding-top: 10%;
+}
+footer p{
+    text-align: center;
+}
+.sec-ft{
+    display: flex;
+    padding-bottom: 1px;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.aus{
+    padding: 0;
+    text-align: left;
+    margin-left: 5%;
+   
+}
+.fpic{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.foot{
+    background-image: linear-gradient(180deg, lightsalmon, purple);
+}
+.about{
+    text-decoration: none;
+    color: black;
+}
+h5{
+    font-size: 15px;
+}
+.section-3{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+#box1{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#box2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+.sec3{
+    box-shadow: 10px 10px 40px rgb(156, 151, 151);
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.flex{
+    display: flex;
+    height: 400px;
+    padding-bottom: 50px;
+
+}
+.sec-mid{
+    display: flex;
+    
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+    
+}
+.sec-midd{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.div-mid{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    padding-left: 15%;
+}
+.div-midd{
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 60%;
+    border-radius: 10px;
+    border: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    text-align: justify;
+}
